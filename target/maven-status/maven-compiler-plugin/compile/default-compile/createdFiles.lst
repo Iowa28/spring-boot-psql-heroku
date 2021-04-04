@@ -1,0 +1,5 @@
+org\example\repository\UserRepository.class
+org\example\model\User.class
+org\example\Application.class
+org\example\config\WebSecurityConfig.class
+org\example\controller\ExampleController.class

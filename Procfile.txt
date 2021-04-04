@@ -1,0 +1,2 @@
+# Procfile
+web: java -Dserver.port=$PORT -Ddatabase.url=$DATABASE_URL -jar target/heroku-demo-0.0.1-SNAPSHOT.jar -Dserver.port=$PORT 
